@@ -1,0 +1,46 @@
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.exe
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.deps.json
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.runtimeconfig.json
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.pdb
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.AssemblyReference.cache
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfoInputs.cache
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfo.cs
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\refint\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.pdb
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.genruntimeconfig.cache
+C:\Users\Belyakov00142_EXT\Desktop\3d calc\PrintCalculator\obj\Debug\net6.0-windows\ref\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.exe
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.deps.json
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.runtimeconfig.json
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.pdb
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.AssemblyReference.cache
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfoInputs.cache
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfo.cs
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\refint\PrintCalculator.dll
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.pdb
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.genruntimeconfig.cache
+C:\Users\Belyakov00142_EXT\Desktop\d_calc\PrintCalculator\obj\Debug\net6.0-windows\ref\PrintCalculator.dll
+D:\Download\calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.exe
+D:\Download\calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.deps.json
+D:\Download\calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.runtimeconfig.json
+D:\Download\calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.dll
+D:\Download\calc\PrintCalculator\bin\Debug\net6.0-windows\PrintCalculator.pdb
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfoInputs.cache
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.AssemblyInfo.cs
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.CoreCompileInputs.cache
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.dll
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\refint\PrintCalculator.dll
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.pdb
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.genruntimeconfig.cache
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\ref\PrintCalculator.dll
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.Form1.resources
+D:\Download\calc\PrintCalculator\obj\Debug\net6.0-windows\PrintCalculator.csproj.GenerateResource.cache
